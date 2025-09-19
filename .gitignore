@@ -1,2 +1,4 @@
 *.jpg
+*.jpeg
 apparel_cnn/ImageFolder/
+BrainTumor/Brain_Tumor
